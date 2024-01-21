@@ -36,7 +36,7 @@ _This is italic_
 
 [Link](https://www.example.com)
 
-![Image](image.jpg)
+![Image](image.png)
 
 `Inline code`
 
@@ -51,6 +51,7 @@ int main(){
     return 0;
 }
 ```
+
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
