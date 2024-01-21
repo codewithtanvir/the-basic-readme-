@@ -52,12 +52,10 @@ int main(){
 }
 ```
 
-1. item 1 
-     1.
-     2.
-2.  item 2
-    1.
-    2.
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
 
 
 ### table syntax
