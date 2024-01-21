@@ -34,7 +34,7 @@ _This is italic_
 2. Ordered item 2
 3. Ordered item 3
 
-[Link](https://www.example.com)
+[Link](https://www.github.com)
 
 ![Image](image.png)
 
